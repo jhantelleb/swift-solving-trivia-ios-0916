@@ -38,7 +38,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
             if same == false &&
                !returnState.isEmpty{
-               return state
+               return state 
             }}
         return returnState
     }
